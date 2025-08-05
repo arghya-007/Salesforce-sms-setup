@@ -216,22 +216,22 @@ Course_Registration__c:
 This Proof of Concept demonstrates the feasibility of implementing a robust, scalable SMS broadcasting system in Salesforce that can effectively manage communications across 10 distinct courses while maintaining compliance and delivering personalized experiences to registered contacts
 
 Citations:
-[1] Set Up SMS in Service Cloud https://help.salesforce.com/s/articleView?id=service.livemessage_setup_sms_channels.htm&language=en_US&type=5
-[2] Set Up an SMS Unified Messaging Channel https://help.salesforce.com/s/articleView?id=mktg.um_channel_sms.htm&language=en_US&type=5
-[3] Get Started with Enhanced Messaging for SMS (Generally ... https://help.salesforce.com/s/articleView?id=release-notes.rn_messaging_enhanced_sms.htm&language=en_US&release=248&type=5
-[4] Send One-to-Many Messages with Broadcast Messaging https://help.salesforce.com/s/articleView?id=release-notes.rn_messaging_broadcast.htm&language=en_US&release=228&type=5
-[5] SMS Campaign Creation - Trailhead - Salesforce https://trailhead.salesforce.com/content/learn/modules/sms-messaging-with-mobileconnect/send-sms-messages
-[6] Set Up an SMS Unified Messaging Channel - Salesforce Help https://help.salesforce.com/s/articleView?language=en_US&id=mktg.um_channel_sms.htm&type=5
-[7] SMS Messaging from Salesforce using Digital Engagement https://cloudtrekkeraman.wordpress.com/2024/04/27/send-text-sms-from-salesforce-using-digital-engagement/
-[8] Salesforce SMS integration: How to set up https://www.openphone.com/blog/salesforce-sms-integration/
-[9] Salesforce SMS Drip Campaign | 360 SMS Native APP https://360smsapp.com/drip-campaigns/
-[10] How to Send SMS from Salesforce - GirikSMS https://www.giriksms.com/blogs/How-to-Send-SMS-from-Salesforce/
-[11] SMS Template DMO | Model Data in Data Cloud https://developer.salesforce.com/docs/data/data-cloud-dmo-mapping/guide/c360dm-sms-template-dmo.html
-[12] Set Up a Messaging Channel - Trailhead - Salesforce https://trailhead.salesforce.com/content/learn/modules/boost-survey-responses-with-salesforce-messaging-integration/set-up-a-messaging-channel
-[13] What is a proof of concept? [Examples + template] https://zapier.com/blog/proof-of-concept/
-[14] Salesforce Text Message: Is is Possible to Send from ... - 360 SMS App https://360smsapp.com/salesforce-text-message-is-is-possible-to-send-from-salesforce/
-[15] How to setup SMS in Digital Engagement Salesforce ... https://www.youtube.com/watch?v=6ISsuuVV_EI
-[16] Proof of concept Salesforce CRM https://newdatalabs.com/en/proof-of-concept/
-[17] Compare Standard and Enhanced SMS Channel Capabilities https://help.salesforce.com/s/articleView?id=service.messaging_sms_compare.htm&language=en_US&type=5
-[18] Create SMS Long Code Channels in Service Cloud https://help.salesforce.com/articleView?id=messaging_setup_longcodes.htm&type=5
-[19] Step-by-Step Guide to Bulk SMS in Salesforce - LINK Mobility https://www.linkmobility.com/en-gb/blog/step-by-step-guide-to-bulk-sms-in-salesforce
+[1] Set Up SMS in Service Cloud https://help.salesforce.com/s/articleView?id=service.livemessage_setup_sms_channels.htm&language=en_US&type=5  
+[2] Set Up an SMS Unified Messaging Channel https://help.salesforce.com/s/articleView?id=mktg.um_channel_sms.htm&language=en_US&type=5  
+[3] Get Started with Enhanced Messaging for SMS (Generally ... https://help.salesforce.com/s/articleView?id=release-notes.rn_messaging_enhanced_sms.htm&language=en_US&release=248&type=5  
+[4] Send One-to-Many Messages with Broadcast Messaging https://help.salesforce.com/s/articleView?id=release-notes.rn_messaging_broadcast.htm&language=en_US&release=228&type=5  
+[5] SMS Campaign Creation - Trailhead - Salesforce https://trailhead.salesforce.com/content/learn/modules/sms-messaging-with-mobileconnect/send-sms-messages  
+[6] Set Up an SMS Unified Messaging Channel - Salesforce Help https://help.salesforce.com/s/articleView?language=en_US&id=mktg.um_channel_sms.htm&type=5  
+[7] SMS Messaging from Salesforce using Digital Engagement https://cloudtrekkeraman.wordpress.com/2024/04/27/send-text-sms-from-salesforce-using-digital-engagement/  
+[8] Salesforce SMS integration: How to set up https://www.openphone.com/blog/salesforce-sms-integration/  
+[9] Salesforce SMS Drip Campaign | 360 SMS Native APP https://360smsapp.com/drip-campaigns/  
+[10] How to Send SMS from Salesforce - GirikSMS https://www.giriksms.com/blogs/How-to-Send-SMS-from-Salesforce/  
+[11] SMS Template DMO | Model Data in Data Cloud https://developer.salesforce.com/docs/data/data-cloud-dmo-mapping/guide/c360dm-sms-template-dmo.html  
+[12] Set Up a Messaging Channel - Trailhead - Salesforce https://trailhead.salesforce.com/content/learn/modules/boost-survey-responses-with-salesforce-messaging-integration/set-up-a-messaging-channel  
+[13] What is a proof of concept? [Examples + template] https://zapier.com/blog/proof-of-concept/  
+[14] Salesforce Text Message: Is is Possible to Send from ... - 360 SMS App https://360smsapp.com/salesforce-text-message-is-is-possible-to-send-from-salesforce/  
+[15] How to setup SMS in Digital Engagement Salesforce ... https://www.youtube.com/watch?v=6ISsuuVV_EI  
+[16] Proof of concept Salesforce CRM https://newdatalabs.com/en/proof-of-concept/  
+[17] Compare Standard and Enhanced SMS Channel Capabilities https://help.salesforce.com/s/articleView?id=service.messaging_sms_compare.htm&language=en_US&type=5  
+[18] Create SMS Long Code Channels in Service Cloud https://help.salesforce.com/articleView?id=messaging_setup_longcodes.htm&type=5  
+[19] Step-by-Step Guide to Bulk SMS in Salesforce - LINK Mobility https://www.linkmobility.com/en-gb/blog/step-by-step-guide-to-bulk-sms-in-salesforce  
